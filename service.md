@@ -1,6 +1,11 @@
 # Modelos de serviço
 
-- **Modelos de serviço**: **IaaS (Infrastructure as a Service)**, **PaaS (Platform as a Service)**, **SaaS (Software as a Service)**.
+## **2. Modelos de serviço**
+
+- **Quais são os Modelos de Serviço?**
+    - IaaS (Infrastructure as a Service)
+    - PaaS (Platform as a Service)
+    - SaaS (Software as a Service)
 - Exemplos de serviços em cada categoria.
 
 ### **Modelos de Serviço na Nuvem**
